@@ -1,12 +1,19 @@
+body{
+  background: gray;
+}
+
 .main_style {
   
 }
+
 .main_style:hover {
   
 }
+
 .main_style:active {
   
 }
+
 .main_style:visited {
   
 }
