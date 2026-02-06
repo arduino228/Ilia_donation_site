@@ -1,6 +1,6 @@
 body{
   background: gray;
-  background: images/ilia.png;
+  background-image: url('ilia.png');
 }
 
 .main_style {
