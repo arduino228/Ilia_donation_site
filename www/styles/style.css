@@ -1,23 +1,36 @@
 body{
-  background-image: src('ilia.png');
+  background: #211f1f;
+  /*background-image: url('ilia.jpg');
+  background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-position: center;
-  background: #211f1f;
+  background-position: center;*/
+  
 }
 
 .main_style {
-  
+  color: #DCDCDC;
+  text-decoration: none;
+  position: relative;
+  bottom: 200px;
+  left: 50px;
+}
+
+.main-text {
+	color: #C0C0C0;
+	position: relative;
+	bottom: 260px;
+	left: 340px;
 }
 
 .main_style:hover {
-  
+
 }
 
 .main_style:active {
-  
+
 }
 
 .main_style:visited {
-  
+
 }

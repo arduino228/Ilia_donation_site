@@ -1,5 +1,5 @@
 // меняет цвет фона
-document.body.style.background = "red";
+//document.body.style.background = "red";
 
 // возврат фона через секунду
-setTimeout(() => document.body.style.background = "", 1000);
+//setTimeout(() => document.body.style.background = "", 1000);
