@@ -1,8 +1,9 @@
 body{
-  background: #211f1f;
   background-image: src('ilia.png');
   background-attachment: fixed;
   background-repeat: no-repeat;
+  background-position: center;
+  background: #211f1f;
 }
 
 .main_style {
