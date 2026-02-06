@@ -1,6 +1,7 @@
 body{
   background: gray;
   background-image: url('ilia.png');
+  background-attachment: fixed;
 }
 
 .main_style {
